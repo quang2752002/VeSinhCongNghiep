@@ -1,0 +1,531 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\Next\\VSCN\\API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDDD01-9C63-4921-9694-0D97D5BCB263}|..\\Infrastructure\\Infrastructure.csproj|d:\\project\\next\\vscn\\infrastructure\\migrations\\20250911151029_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107C6F3-6CD4-44D7-AD44-56D8E0F336B3}|..\\Share\\Share.csproj|d:\\project\\next\\vscn\\share\\constant\\identitydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AA340AD-DC26-4A7A-AA51-B06A0FD35B4C}|..\\Domain\\Domain.csproj|d:\\project\\next\\vscn\\domain\\entities\\websiteconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\services\\categoryservice .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDDD01-9C63-4921-9694-0D97D5BCB263}|..\\Infrastructure\\Infrastructure.csproj|d:\\project\\next\\vscn\\infrastructure\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDDD01-9C63-4921-9694-0D97D5BCB263}|..\\Infrastructure\\Infrastructure.csproj|d:\\project\\next\\vscn\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDDD01-9C63-4921-9694-0D97D5BCB263}|..\\Infrastructure\\Infrastructure.csproj|d:\\project\\next\\vscn\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15EDDD01-9C63-4921-9694-0D97D5BCB263}|..\\Infrastructure\\Infrastructure.csproj|d:\\project\\next\\vscn\\infrastructure\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\serviceregister\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:serviceregister\\serviceregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\authresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D107C6F3-6CD4-44D7-AD44-56D8E0F336B3}|..\\Share\\Share.csproj|d:\\project\\next\\vscn\\share\\constant\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|d:\\project\\next\\vscn\\api\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6ED96E91-4FAA-46A1-B71F-94F3E714308C}|API.csproj|solutionrelative:controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{892899A0-1AAA-4483-A57F-828EA3FF40CE}|..\\Application\\Application.csproj|d:\\project\\next\\vscn\\application\\dtos\\pagedrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 307,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-13T01:33:26.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250911151029_init.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Infrastructure\\Migrations\\20250911151029_init.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Migrations\\20250911151029_init.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Infrastructure\\Migrations\\20250911151029_init.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Migrations\\20250911151029_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T15:10:29.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Article.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Article.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Article.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Article.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:00:07.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T03:59:37.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Order.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:51:02.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\OrderDetail.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\OrderDetail.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:51:36.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\Product.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:50:38.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-11T14:32:59.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IdentityDataInitializer.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Share\\Constant\\IdentityDataInitializer.cs",
+              "RelativeDocumentMoniker": "..\\Share\\Constant\\IdentityDataInitializer.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Share\\Constant\\IdentityDataInitializer.cs",
+              "RelativeToolTip": "..\\Share\\Constant\\IdentityDataInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T09:42:52.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:05:36.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WebsiteConfig.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\WebsiteConfig.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\WebsiteConfig.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\WebsiteConfig.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\WebsiteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:53:48.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\Entities\\BaseEntity.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Domain\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "..\\Domain\\Entities\\BaseEntity.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:31:29.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CategoryService .cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\Services\\CategoryService .cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\CategoryService .cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\Services\\CategoryService .cs",
+              "RelativeToolTip": "..\\Application\\Services\\CategoryService .cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:42:38.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "Controllers\\CategoryController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T16:39:10.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAAAHgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:26:13.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Infrastructure\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\Infrastructure\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:45:22.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\TokenModel.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\TokenModel.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\TokenModel.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\TokenModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T15:00:08.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:50:22.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:50:20.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Infrastructure\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "..\\Infrastructure\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Infrastructure\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "..\\Infrastructure\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:50:04.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\UserDTO.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:44:04.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\LoginModel.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\LoginModel.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\LoginModel.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\LoginModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:42:24.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\AuthResponseDto.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\AuthResponseDto.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:38:34.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\RegisterModel.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:38:02.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ServiceRegister.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\ServiceRegister\\ServiceRegister.cs",
+              "RelativeDocumentMoniker": "ServiceRegister\\ServiceRegister.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\ServiceRegister\\ServiceRegister.cs",
+              "RelativeToolTip": "ServiceRegister\\ServiceRegister.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:27:22.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Share\\Constant\\UserRoles.cs",
+              "RelativeDocumentMoniker": "..\\Share\\Constant\\UserRoles.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Share\\Constant\\UserRoles.cs",
+              "RelativeToolTip": "..\\Share\\Constant\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T04:01:15.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\TokenService.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\Services\\TokenService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\TokenService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:28:42.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T01:27:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "..\\Application\\Services\\ArticleService.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\Services\\ArticleService.cs",
+              "RelativeToolTip": "..\\Application\\Services\\ArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:23:04.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\API\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ArticleController.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\API\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Controllers\\ArticleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-11T14:21:42.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PagedRequestDTO.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\PagedRequestDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\PagedRequestDTO.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\PagedRequestDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\PagedRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T10:26:39.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "CategoryDTO.cs",
+              "DocumentMoniker": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\CategoryDTO.cs",
+              "RelativeDocumentMoniker": "..\\Application\\DTOs\\CategoryDTO.cs",
+              "ToolTip": "D:\\Project\\Next\\VSCN\\Application\\DTOs\\CategoryDTO.cs",
+              "RelativeToolTip": "..\\Application\\DTOs\\CategoryDTO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-27T08:20:46.781Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 93,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

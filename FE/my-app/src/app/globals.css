@@ -1,0 +1,139 @@
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+html,
+body {
+  max-width: 100vw;
+  overflow-x: hidden;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+
+  
+
+.checkbox-wrapper-4 *,
+.checkbox-wrapper-4 *::after,
+.checkbox-wrapper-4 *::before {
+   box-sizing: border-box;
+}
+
+.checkbox-wrapper-4 .input-4 {
+   display: none;
+   visibility: hidden;
+}
+
+.checkbox-wrapper-4 .checkbox-4 {
+   margin: auto;
+   -webkit-user-select: none;
+   user-select: none;
+   cursor: pointer;
+}
+
+.checkbox-wrapper-4 .checkbox-4 span {
+   display: inline-block;
+   vertical-align: middle;
+   transform: translate3d(0, 0, 0);
+}
+
+.checkbox-wrapper-4 .checkbox-4 span:first-child {
+   position: relative;
+   width: 24px;
+   height: 24px;
+   border-radius: 4px;
+   transform: scale(1);
+   vertical-align: middle;
+   border: 1.3px solid #dbdcef;
+   transition: all 0.2s ease;
+}
+
+.checkbox-wrapper-4 .checkbox-4 span:first-child svg {
+   width: 16px;
+   height: 13.3px;
+   position: absolute;
+   top: 4px;
+   left: 2.7px;
+   fill: none;
+   stroke: #FFFFFF;
+   stroke-width: 2;
+   stroke-linecap: round;
+   stroke-linejoin: round;
+   stroke-dasharray: 16px;
+   stroke-dashoffset: 16px;
+   transition: all 0.3s ease;
+   transition-delay: 0.1s;
+   transform: translate3d(0, 0, 0);
+}
+
+.checkbox-wrapper-4 .checkbox-4 span:first-child:before {
+   content: "";
+   width: 100%;
+   height: 100%;
+   background: #256176;
+   display: block;
+   transform: scale(0);
+   opacity: 1;
+   border-radius: 50%;
+}
+
+.checkbox-wrapper-4 .checkbox-4 span:last-child {
+   padding-left: 10px;
+}
+
+.checkbox-wrapper-4 .checkbox-4:hover span:first-child {
+   border-color: #256176;
+}
+
+.checkbox-wrapper-4 .input-4:checked + .checkbox-4 span:first-child {
+   background: #256176;
+   border-color: #256176;
+   animation: wave-4 0.4s ease;
+}
+
+.checkbox-wrapper-4 .input-4:checked + .checkbox-4 span:first-child svg {
+   stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper-4 .input-4:checked + .checkbox-4 span:first-child:before {
+   transform: scale(3.5);
+   opacity: 0;
+   transition: all 0.6s ease;
+}
+
+@keyframes wave-4 {
+   50% {
+      transform: scale(0.9);
+   }
+}
+
+}
